@@ -1,0 +1,41 @@
+---
+sourceLocationPrefix: C:\Users\y2017\Desktop\langflow\src\backend\base
+baselineLinesOfCode: 48711
+unicodeNewlines: false
+columnKind: utf32
+primaryLanguage: python
+inProgress:
+  primaryLanguage: python
+  installedExtractors:
+    cpp:
+     - D:/CodeView/Code_review/codeql/cpp
+    csharp:
+     - D:/CodeView/Code_review/codeql/csharp
+    csv:
+     - D:/CodeView/Code_review/codeql/csv
+    go:
+     - D:/CodeView/Code_review/codeql/go
+    html:
+     - D:/CodeView/Code_review/codeql/html
+    java:
+     - D:/CodeView/Code_review/codeql/java
+    javascript:
+     - D:/CodeView/Code_review/codeql/javascript
+    properties:
+     - D:/CodeView/Code_review/codeql/properties
+    python:
+     - D:/CodeView/Code_review/codeql/python
+    ruby:
+     - D:/CodeView/Code_review/codeql/ruby
+    solidity:
+     - D:/CodeView/Code_review/codeql/solidity
+    swift:
+     - D:/CodeView/Code_review/codeql/swift
+    xml:
+     - D:/CodeView/Code_review/codeql/xml
+    yaml:
+     - D:/CodeView/Code_review/codeql/yaml
+creationMetadata:
+  cliVersion: 2.19.1
+  creationTime: 2025-04-11T16:00:29.178051400Z
+finalised: false
